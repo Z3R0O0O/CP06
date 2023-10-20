@@ -10,6 +10,7 @@ Prof. Ms. Fábio Henrique Cabrini
 + Eduardo do Nascimento Silva, RM99225
 + Gustavo Duarte Bezerra da Silva, RM99774
 + Henrique Batista de Souza, RM99742
++ João Eduardo Busar Pena, RM98243
 
 
 ### Descrição da atividade:
