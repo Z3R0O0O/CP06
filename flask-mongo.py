@@ -1,3 +1,14 @@
+'''
+Turma 1TDCG
+Professor: Fabio Cabrini
+Integrantes:
+Danilo da Gama Campos, RM99680
+Eduardo do Nascimento Silva, RM99225
+Gustavo Duarte Bezerra da Silva, RM99774
+Henrique Batista de Souza, RM99742
+João Eduardo Busar Pena, RM98243
+'''
+
 from flask import Flask, jsonify, request  # criar um aplicativo da web e lidar com solicitações HTTP.
 import os                                  # obter informações do ambiente,
 from pymongo import MongoClient            # para interagir com o MongoDB
